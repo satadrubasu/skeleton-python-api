@@ -1,2 +1,3 @@
 # skeleton-python-api
-Python Flask based API skeleon
+Python Flask based API skeleton
+
